@@ -14,7 +14,8 @@ checkout.html is the page users will see when they hit checkout
 
 vegetables_functions.js contains the functions used within my pages.
 		to determine what's in the users cart, I stored what they purchased using localstorage
-		
+
+vegetables.css contains all the css used.	
 
 Instructions on file placement
 	All files should be placed in the same folder.
