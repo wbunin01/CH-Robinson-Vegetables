@@ -2,14 +2,17 @@ var vegetables = [
 	{
 		"vegetable_name":"Corn", 
 		"price":"2.20", 
-		"description":"The carrot is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist. It has a crisp texture when fresh."
+		"description":"The carrot is a root vegetable, usually orange in colour, though purple, red, white, and yellow varieties exist. It has a crisp texture when fresh.",
+		"image":"http://images.all-free-download.com/images/graphiclarge/corn_autumn_harvest_271997.jpg"
 	}, {
 		"vegetable_name":"Carrots", 
 		"price":"1.00", 
-		"description":"Corn is a large grain plant. The leafy stalk produces ears which contain the grain, which are seeds called kernels."
+		"description":"Corn is a large grain plant. The leafy stalk produces ears which contain the grain, which are seeds called kernels.",
+		"image":"http://images.all-free-download.com/images/graphiclarge/a_bunch_of_carrots_picture_167132.jpg"
 	}, {
 		"vegetable_name":"Soybeans", 
 		"price":"1.05", 
-		"description":"The soybean is a species of legume native to East Asia, widely grown for its edible bean which has numerous uses."
+		"description":"The soybean is a species of legume native to East Asia, widely grown for its edible bean which has numerous uses.",
+		"image":"http://images.all-free-download.com/images/graphiclarge/a_pile_of_beans_picture_167083.jpg"
 	}
 ];
