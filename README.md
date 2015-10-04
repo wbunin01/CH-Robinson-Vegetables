@@ -2,9 +2,12 @@
 An ecommerce website for purchasing vegetables 
 
 vegetables.json incldues all of the vegetables that a user can purchase.
-	Corn
-	Carrots
+	Current vegetables include:
+	Corn, 
+	Carrots, 
 	Soybeans
+	
+	Each vegetable in the Json file must have 4 parts to it.  A name, price, description, and an image link.
 
 index.html contains the home page of the site.  This is where users can see what items are for sale.
 
